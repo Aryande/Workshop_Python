@@ -1,1 +1,1 @@
-pthon adalah 
+BAB 1 : python adalah bahasa pemprogram yang mudah digunakan dan dipelajari dikarena python itu mudah ditulis dan dibaca. Python juga  memiliki tipe data yang lebih umum,serta python juga terstruktur dan didukung untuk program besar.
