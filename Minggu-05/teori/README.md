@@ -11,4 +11,3 @@ Fungsi str() digunakan untuk mengembalikan representasi nilai yang cukup dapat d
 
 Literal string yang diformat (f-string) memungkinkan untuk memasukkan nilai ekspresi Python di dalam string dengan mengawali string dengan f atau F dan menulis ekspresi sebagai {expression}. Penggunaan dasar metode str.format() Tanda kurung dan karakter di dalamnya (sebut format bidang) diganti dengan objek yang diteruskan ke metode str.format(). Angka dalam kurung dapat digunakan untuk merujuk ke posisi objek yang diteruskan ke metode str.format().
 
-Pemformatan string lama : Operator % (modulo) dapat digunakan untuk pemformatan string. Nilai % 'string', contoh % dalam string diganti dengan nilai nol atau lebih elemen. Operasi ini umumnya dikenal sebagai string interpolasi
